@@ -1,0 +1,1422 @@
+{
+ "table2": [
+  {
+   "item": "Female victims",
+   "n": 1120,
+   "reported": "33%",
+   "pct": 33.34325692170289,
+   "lo": 31.749146708169718,
+   "hi": 34.96641336388507
+  },
+  {
+   "item": "Stabbing or cutting weapon used",
+   "n": 708,
+   "reported": "21.1%",
+   "pct": 21.077701696933612,
+   "lo": 19.70917039765024,
+   "hi": 22.496763147531492
+  },
+  {
+   "item": "Stab wounds",
+   "n": 597,
+   "reported": "17.8%",
+   "pct": 17.773146769871985,
+   "lo": 16.493938367453453,
+   "hi": 19.108711203215485
+  },
+  {
+   "item": "Body openly displayed",
+   "n": 258,
+   "reported": "7.7%",
+   "pct": 7.68085739803513,
+   "lo": 6.802590225611296,
+   "hi": 8.633606374972452
+  },
+  {
+   "item": "Trophies taken",
+   "n": 222,
+   "reported": "6.6%",
+   "pct": 6.609109854123251,
+   "lo": 5.79211772059551,
+   "hi": 7.502585394297297
+  },
+  {
+   "item": "Sex-worker victims ('prostitutes')",
+   "n": 114,
+   "reported": "3.4%",
+   "pct": 3.393867222387615,
+   "lo": 2.8075097846638104,
+   "hi": 4.063059363504406
+  },
+  {
+   "item": "Cutting or incising wounds",
+   "n": 91,
+   "reported": "2.7%",
+   "pct": 2.7091396248883597,
+   "lo": 2.1867105265419915,
+   "hi": 3.315913496183816
+  },
+  {
+   "item": "Unusual body position (staging/posing)",
+   "n": 57,
+   "reported": "1.7%",
+   "pct": 1.6969336111938076,
+   "lo": 1.287709261408251,
+   "hi": 2.1930464702178614
+  },
+  {
+   "item": "Trauma to neck",
+   "n": 60,
+   "reported": "1.6%",
+   "pct": 1.7862459065197975,
+   "lo": 1.365790914146568,
+   "hi": 2.2933395096315143
+  },
+  {
+   "item": "Trauma to abdomen",
+   "n": 52,
+   "reported": "1.5%",
+   "pct": 1.5480797856504913,
+   "lo": 1.1582844575155642,
+   "hi": 2.0251975336026096
+  },
+  {
+   "item": "Explored or mutilated cavities",
+   "n": 9,
+   "reported": "0.3%",
+   "pct": 0.2679368859779696,
+   "lo": 0.1225887275450064,
+   "hi": 0.5080156751815408
+  },
+  {
+   "item": "Trauma to genitalia",
+   "n": 2,
+   "reported": "10.1%",
+   "pct": 0.05954153021732658,
+   "lo": 0.007211569087242438,
+   "hi": 0.2149172701540033
+  }
+ ],
+ "table3": [
+  {
+   "item": "Sex worker + unusual body position",
+   "n": 10,
+   "reported": "0.27%",
+   "pct": 0.29770765108663294,
+   "lo": 0.14285184831744555,
+   "hi": 0.5468112840345373,
+   "cond_label": "sex-worker victims",
+   "cond_n": 114,
+   "cond_pct": 8.771929824561404,
+   "cond_lo": 4.2869142030687195,
+   "cond_hi": 15.540579307008983
+  },
+  {
+   "item": "Probed, explored or mutilated cavities",
+   "n": 9,
+   "reported": "0.26%",
+   "pct": 0.2679368859779696,
+   "lo": 0.1225887275450064,
+   "hi": 0.5080156751815408
+  },
+  {
+   "item": "Female + mutilation",
+   "n": 6,
+   "reported": "0.17%",
+   "pct": 0.17862459065197975,
+   "lo": 0.06557939980902242,
+   "hi": 0.38838210184131394,
+   "cond_label": "female victims",
+   "cond_n": 1120,
+   "cond_pct": 0.5357142857142857,
+   "cond_lo": 0.19684382748888746,
+   "cond_hi": 1.1623529385122282
+  },
+  {
+   "item": "Unusual body position + mutilation",
+   "n": 2,
+   "reported": "0.05%",
+   "pct": 0.05954153021732658,
+   "lo": 0.007211569087242438,
+   "hi": 0.2149172701540033,
+   "cond_label": "unusual-position cases",
+   "cond_n": 57,
+   "cond_pct": 3.508771929824561,
+   "cond_lo": 0.4277894940531771,
+   "cond_hi": 12.107066319620115
+  },
+  {
+   "item": "Sex worker + mutilation",
+   "n": 1,
+   "reported": "0.03%",
+   "pct": 0.02977076510866329,
+   "lo": 0.0007537276740252277,
+   "hi": 0.16575925363039204,
+   "cond_label": "sex-worker victims",
+   "cond_n": 114,
+   "cond_pct": 0.8771929824561403,
+   "cond_lo": 0.022206137567197883,
+   "cond_hi": 4.790525785236257
+  },
+  {
+   "item": "Sex worker + unusual position + mutilation",
+   "n": 0,
+   "reported": "0%",
+   "pct": 0.0,
+   "lo": 0.0,
+   "hi": 0.10976048281086756,
+   "cond_label": "sex-worker victims",
+   "cond_n": 114,
+   "cond_pct": 0.0,
+   "cond_lo": 0.0,
+   "cond_hi": 3.1840654083474194
+  }
+ ],
+ "zero_all_onesided95": 0.08914548362797259,
+ "zero_all_1_in": 1121.761820456616,
+ "zero_sw_onesided95": 2.5936082013628403,
+ "zero_sw_cp_upper": 3.1840654083474194,
+ "zero_all_cp_upper": 0.10976048281086756,
+ "span_days": 1046,
+ "span_months": 34.365503080082135,
+ "six_span_days": 94,
+ "core": [
+  "Nichols",
+  "Chapman",
+  "Eddowes",
+  "Kelly"
+ ],
+ "core_cohesion": 0.8088383838383839,
+ "core_pairs": {
+  "Nichols-Chapman": 0.8,
+  "Nichols-Eddowes": 0.7272727272727273,
+  "Nichols-Kelly": 0.6666666666666666,
+  "Chapman-Eddowes": 0.9090909090909091,
+  "Chapman-Kelly": 0.8333333333333334,
+  "Eddowes-Kelly": 0.9166666666666666
+ },
+ "k_per_behaviour": {
+  "B1": 9,
+  "B2": 7,
+  "B3": 5,
+  "B4": 6,
+  "B5": 7,
+  "B6": 7,
+  "B7": 5,
+  "B8": 7,
+  "B9": 2,
+  "B10": 3,
+  "B11": 2,
+  "B12": 3,
+  "B13": 2,
+  "B14": 1
+ },
+ "k_per_case": {
+  "Smith": 2,
+  "Tabram": 7,
+  "Nichols": 8,
+  "Chapman": 10,
+  "Stride": 2,
+  "Eddowes": 11,
+  "Kelly": 12,
+  "Mylett": 1,
+  "McKenzie": 6,
+  "Pinchin St.": 5,
+  "Coles": 2
+ },
+ "J": {
+  "Smith": {
+   "Smith": 1.0,
+   "Tabram": 0.125,
+   "Nichols": 0.1111,
+   "Chapman": 0.0909,
+   "Stride": 0.0,
+   "Eddowes": 0.0833,
+   "Kelly": 0.0769,
+   "Mylett": 0.5,
+   "McKenzie": 0.1429,
+   "Pinchin St.": 0.0,
+   "Coles": 0.0
+  },
+  "Tabram": {
+   "Smith": 0.125,
+   "Tabram": 1.0,
+   "Nichols": 0.6667,
+   "Chapman": 0.5455,
+   "Stride": 0.125,
+   "Eddowes": 0.5,
+   "Kelly": 0.5833,
+   "Mylett": 0.0,
+   "McKenzie": 0.625,
+   "Pinchin St.": 0.3333,
+   "Coles": 0.125
+  },
+  "Nichols": {
+   "Smith": 0.1111,
+   "Tabram": 0.6667,
+   "Nichols": 1.0,
+   "Chapman": 0.8,
+   "Stride": 0.25,
+   "Eddowes": 0.7273,
+   "Kelly": 0.6667,
+   "Mylett": 0.0,
+   "McKenzie": 0.75,
+   "Pinchin St.": 0.4444,
+   "Coles": 0.25
+  },
+  "Chapman": {
+   "Smith": 0.0909,
+   "Tabram": 0.5455,
+   "Nichols": 0.8,
+   "Chapman": 1.0,
+   "Stride": 0.2,
+   "Eddowes": 0.9091,
+   "Kelly": 0.8333,
+   "Mylett": 0.0,
+   "McKenzie": 0.6,
+   "Pinchin St.": 0.3636,
+   "Coles": 0.2
+  },
+  "Stride": {
+   "Smith": 0.0,
+   "Tabram": 0.125,
+   "Nichols": 0.25,
+   "Chapman": 0.2,
+   "Stride": 1.0,
+   "Eddowes": 0.1818,
+   "Kelly": 0.1667,
+   "Mylett": 0.0,
+   "McKenzie": 0.3333,
+   "Pinchin St.": 0.1667,
+   "Coles": 1.0
+  },
+  "Eddowes": {
+   "Smith": 0.0833,
+   "Tabram": 0.5,
+   "Nichols": 0.7273,
+   "Chapman": 0.9091,
+   "Stride": 0.1818,
+   "Eddowes": 1.0,
+   "Kelly": 0.9167,
+   "Mylett": 0.0,
+   "McKenzie": 0.5455,
+   "Pinchin St.": 0.3333,
+   "Coles": 0.1818
+  },
+  "Kelly": {
+   "Smith": 0.0769,
+   "Tabram": 0.5833,
+   "Nichols": 0.6667,
+   "Chapman": 0.8333,
+   "Stride": 0.1667,
+   "Eddowes": 0.9167,
+   "Kelly": 1.0,
+   "Mylett": 0.0,
+   "McKenzie": 0.5,
+   "Pinchin St.": 0.3077,
+   "Coles": 0.1667
+  },
+  "Mylett": {
+   "Smith": 0.5,
+   "Tabram": 0.0,
+   "Nichols": 0.0,
+   "Chapman": 0.0,
+   "Stride": 0.0,
+   "Eddowes": 0.0,
+   "Kelly": 0.0,
+   "Mylett": 1.0,
+   "McKenzie": 0.0,
+   "Pinchin St.": 0.0,
+   "Coles": 0.0
+  },
+  "McKenzie": {
+   "Smith": 0.1429,
+   "Tabram": 0.625,
+   "Nichols": 0.75,
+   "Chapman": 0.6,
+   "Stride": 0.3333,
+   "Eddowes": 0.5455,
+   "Kelly": 0.5,
+   "Mylett": 0.0,
+   "McKenzie": 1.0,
+   "Pinchin St.": 0.375,
+   "Coles": 0.3333
+  },
+  "Pinchin St.": {
+   "Smith": 0.0,
+   "Tabram": 0.3333,
+   "Nichols": 0.4444,
+   "Chapman": 0.3636,
+   "Stride": 0.1667,
+   "Eddowes": 0.3333,
+   "Kelly": 0.3077,
+   "Mylett": 0.0,
+   "McKenzie": 0.375,
+   "Pinchin St.": 1.0,
+   "Coles": 0.1667
+  },
+  "Coles": {
+   "Smith": 0.0,
+   "Tabram": 0.125,
+   "Nichols": 0.25,
+   "Chapman": 0.2,
+   "Stride": 1.0,
+   "Eddowes": 0.1818,
+   "Kelly": 0.1667,
+   "Mylett": 0.0,
+   "McKenzie": 0.3333,
+   "Pinchin St.": 0.1667,
+   "Coles": 1.0
+  }
+ },
+ "key_pairs": {
+  "Stride-Coles": 1.0,
+  "Tabram-McKenzie": 0.625,
+  "Nichols-McKenzie": 0.75,
+  "Nichols-Chapman": 0.8,
+  "Stride-McKenzie": 0.3333333333333333,
+  "Stride-Tabram": 0.125,
+  "Smith-Mylett": 0.5,
+  "Stride-Eddowes": 0.18181818181818182,
+  "Stride-Nichols": 0.25,
+  "Tabram-Nichols": 0.6666666666666666,
+  "Pinchin St.-Nichols": 0.4444444444444444
+ },
+ "shared_with_core": {
+  "Stride": {
+   "Nichols": 2,
+   "Chapman": 2,
+   "Eddowes": 2,
+   "Kelly": 2
+  },
+  "McKenzie": {
+   "Nichols": 6,
+   "Chapman": 6,
+   "Eddowes": 6,
+   "Kelly": 6
+  },
+  "Tabram": {
+   "Nichols": 6,
+   "Chapman": 6,
+   "Eddowes": 6,
+   "Kelly": 7
+  },
+  "Coles": {
+   "Nichols": 2,
+   "Chapman": 2,
+   "Eddowes": 2,
+   "Kelly": 2
+  },
+  "Pinchin St.": {
+   "Nichols": 4,
+   "Chapman": 4,
+   "Eddowes": 4,
+   "Kelly": 4
+  }
+ },
+ "scenarios": {
+  "baseline": {
+   "to_core": {
+    "Smith": 0.09056915306915307,
+    "Tabram": 0.5738636363636364,
+    "Nichols": 0.7313131313131312,
+    "Chapman": 0.8474747474747475,
+    "Stride": 0.19962121212121212,
+    "Eddowes": 0.8510101010101009,
+    "Kelly": 0.8055555555555555,
+    "Mylett": 0.0,
+    "McKenzie": 0.5988636363636364,
+    "Pinchin St.": 0.3622766122766123,
+    "Coles": 0.19962121212121212
+   },
+   "keppel6": {
+    "cohesion": 0.5381313131313131,
+    "n_sets": 462,
+    "n_greater": 9,
+    "rank": 10,
+    "n_ge": 11,
+    "p_ge": 0.023809523809523808,
+    "best_set": [
+     "Tabram",
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly",
+     "McKenzie"
+    ],
+    "best_cohesion": 0.6779292929292928
+   },
+   "canonical5": {
+    "cohesion": 0.5651515151515152,
+    "n_sets": 462,
+    "n_greater": 9,
+    "rank": 10,
+    "n_ge": 11,
+    "p_ge": 0.023809523809523808,
+    "best_set": [
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly",
+     "McKenzie"
+    ],
+    "best_cohesion": 0.7248484848484849
+   },
+   "core4": {
+    "cohesion": 0.8088383838383839,
+    "n_sets": 330,
+    "n_greater": 0,
+    "rank": 1,
+    "n_ge": 1,
+    "p_ge": 0.0030303030303030303,
+    "best_set": [
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly"
+    ],
+    "best_cohesion": 0.8088383838383839
+   },
+   "alt6_cohesion": 0.6779292929292928,
+   "coles6_cohesion": 0.5381313131313131,
+   "best4": [
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly"
+   ],
+   "best4_cohesion": 0.8088383838383839,
+   "mckenzie_gt_stride": true
+  },
+  "keppel_favourable": {
+   "to_core": {
+    "Smith": 0.09056915306915307,
+    "Tabram": 0.7582070707070707,
+    "Nichols": 0.7313131313131312,
+    "Chapman": 0.8474747474747475,
+    "Stride": 0.39924242424242423,
+    "Eddowes": 0.8510101010101009,
+    "Kelly": 0.8055555555555555,
+    "Mylett": 0.0,
+    "McKenzie": 0.5988636363636364,
+    "Pinchin St.": 0.3622766122766123,
+    "Coles": 0.19962121212121212
+   },
+   "keppel6": {
+    "cohesion": 0.6618181818181819,
+    "n_sets": 462,
+    "n_greater": 1,
+    "rank": 2,
+    "n_ge": 2,
+    "p_ge": 0.004329004329004329,
+    "best_set": [
+     "Tabram",
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly",
+     "McKenzie"
+    ],
+    "best_cohesion": 0.7298653198653198
+   },
+   "canonical5": {
+    "cohesion": 0.645,
+    "n_sets": 462,
+    "n_greater": 6,
+    "rank": 7,
+    "n_ge": 7,
+    "p_ge": 0.015151515151515152,
+    "best_set": [
+     "Tabram",
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly"
+    ],
+    "best_cohesion": 0.7885858585858585
+   },
+   "core4": {
+    "cohesion": 0.8088383838383839,
+    "n_sets": 330,
+    "n_greater": 0,
+    "rank": 1,
+    "n_ge": 1,
+    "p_ge": 0.0030303030303030303,
+    "best_set": [
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly"
+    ],
+    "best_cohesion": 0.8088383838383839
+   },
+   "alt6_cohesion": 0.7298653198653199,
+   "coles6_cohesion": 0.5937710437710438,
+   "best4": [
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly"
+   ],
+   "best4_cohesion": 0.8088383838383839,
+   "mckenzie_gt_stride": true
+  },
+  "literal": {
+   "to_core": {
+    "Smith": 0.09056915306915307,
+    "Tabram": 0.5738636363636364,
+    "Nichols": 0.7313131313131312,
+    "Chapman": 0.8474747474747475,
+    "Stride": 0.19962121212121212,
+    "Eddowes": 0.8510101010101009,
+    "Kelly": 0.8055555555555555,
+    "Mylett": 0.0,
+    "McKenzie": 0.6079545454545454,
+    "Pinchin St.": 0.45284576534576537,
+    "Coles": 0.19962121212121212
+   },
+   "keppel6": {
+    "cohesion": 0.5381313131313131,
+    "n_sets": 462,
+    "n_greater": 9,
+    "rank": 10,
+    "n_ge": 11,
+    "p_ge": 0.023809523809523808,
+    "best_set": [
+     "Tabram",
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly",
+     "McKenzie"
+    ],
+    "best_cohesion": 0.6757239057239058
+   },
+   "canonical5": {
+    "cohesion": 0.5651515151515152,
+    "n_sets": 462,
+    "n_greater": 16,
+    "rank": 17,
+    "n_ge": 18,
+    "p_ge": 0.03896103896103896,
+    "best_set": [
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly",
+     "McKenzie"
+    ],
+    "best_cohesion": 0.7284848484848484
+   },
+   "core4": {
+    "cohesion": 0.8088383838383839,
+    "n_sets": 330,
+    "n_greater": 0,
+    "rank": 1,
+    "n_ge": 1,
+    "p_ge": 0.0030303030303030303,
+    "best_set": [
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly"
+    ],
+    "best_cohesion": 0.8088383838383839
+   },
+   "alt6_cohesion": 0.6757239057239057,
+   "coles6_cohesion": 0.5381313131313131,
+   "best4": [
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly"
+   ],
+   "best4_cohesion": 0.8088383838383839,
+   "mckenzie_gt_stride": true
+  },
+  "rarity_weighted": {
+   "to_core": {
+    "Smith": 0.05303540110077558,
+    "Tabram": 0.3984354044975464,
+    "Nichols": 0.5072315533056533,
+    "Chapman": 0.6941191264744008,
+    "Stride": 0.0981590837989561,
+    "Eddowes": 0.7085381411685022,
+    "Kelly": 0.6365160935083617,
+    "Mylett": 0.0,
+    "McKenzie": 0.393256540039944,
+    "Pinchin St.": 0.2043479729134064,
+    "Coles": 0.0981590837989561
+   },
+   "keppel6": {
+    "cohesion": 0.3896847507580887,
+    "n_sets": 462,
+    "n_greater": 5,
+    "rank": 6,
+    "n_ge": 7,
+    "p_ge": 0.015151515151515152,
+    "best_set": [
+     "Tabram",
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly",
+     "McKenzie"
+    ],
+    "best_cohesion": 0.4939857252706498
+   },
+   "canonical5": {
+    "cohesion": 0.42122437068812013,
+    "n_sets": 462,
+    "n_greater": 7,
+    "rank": 8,
+    "n_ge": 9,
+    "p_ge": 0.01948051948051948,
+    "best_set": [
+     "Tabram",
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly"
+    ],
+    "best_cohesion": 0.5413348989675563
+   },
+   "core4": {
+    "cohesion": 0.6366012286142295,
+    "n_sets": 330,
+    "n_greater": 0,
+    "rank": 1,
+    "n_ge": 1,
+    "p_ge": 0.0030303030303030303,
+    "best_set": [
+     "Nichols",
+     "Chapman",
+     "Eddowes",
+     "Kelly"
+    ],
+    "best_cohesion": 0.6366012286142295
+   },
+   "alt6_cohesion": 0.4939857252706498,
+   "coles6_cohesion": 0.3896847507580887,
+   "best4": [
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly"
+   ],
+   "best4_cohesion": 0.6366012286142295,
+   "mckenzie_gt_stride": true
+  }
+ },
+ "lofo": [
+  {
+   "dropped": "B1",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 12,
+   "canon5_rank": 11,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.53125,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.11121933621933622,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.5560966810966811,
+    "Pinchin St.": 0.2994318181818182,
+    "Coles": 0.11121933621933622
+   }
+  },
+  {
+   "dropped": "B2",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 8,
+   "canon5_rank": 22,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.6329545454545454,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.11121933621933622,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.5560966810966811,
+    "Pinchin St.": 0.39924242424242423,
+    "Coles": 0.11121933621933622
+   }
+  },
+  {
+   "dropped": "B3",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 13,
+   "canon5_rank": 13,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.53125,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.22243867243867244,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.6673160173160173,
+    "Pinchin St.": 0.39924242424242423,
+    "Coles": 0.22243867243867244
+   }
+  },
+  {
+   "dropped": "B4",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 10,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.53125,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.22243867243867244,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.5560966810966811,
+    "Pinchin St.": 0.39924242424242423,
+    "Coles": 0.22243867243867244
+   }
+  },
+  {
+   "dropped": "B5",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 6,
+   "canon5_rank": 8,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.53125,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.22243867243867244,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.5560966810966811,
+    "Pinchin St.": 0.2994318181818182,
+    "Coles": 0.22243867243867244
+   }
+  },
+  {
+   "dropped": "B6",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 6,
+   "canon5_rank": 8,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.53125,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.22243867243867244,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.5560966810966811,
+    "Pinchin St.": 0.2994318181818182,
+    "Coles": 0.22243867243867244
+   }
+  },
+  {
+   "dropped": "B7",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 12,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.6329545454545454,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.22243867243867244,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.6673160173160173,
+    "Pinchin St.": 0.2994318181818182,
+    "Coles": 0.22243867243867244
+   }
+  },
+  {
+   "dropped": "B8",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 10,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.0,
+    "Tabram": 0.53125,
+    "Nichols": 0.7047138047138047,
+    "Chapman": 0.8319865319865319,
+    "Stride": 0.22243867243867244,
+    "Eddowes": 0.8363636363636364,
+    "Kelly": 0.787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.5560966810966811,
+    "Pinchin St.": 0.39924242424242423,
+    "Coles": 0.22243867243867244
+   }
+  },
+  {
+   "dropped": "B9",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 10,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09217171717171717,
+    "Tabram": 0.6102272727272727,
+    "Nichols": 0.7515151515151516,
+    "Chapman": 0.8727272727272727,
+    "Stride": 0.20340909090909093,
+    "Eddowes": 0.8787878787878788,
+    "Kelly": 0.8787878787878788,
+    "Mylett": 0.0,
+    "McKenzie": 0.6102272727272727,
+    "Pinchin St.": 0.3686868686868687,
+    "Coles": 0.20340909090909093
+   }
+  },
+  {
+   "dropped": "B10",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 12,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09633838383838383,
+    "Tabram": 0.6121212121212121,
+    "Nichols": 0.8053872053872054,
+    "Chapman": 0.869023569023569,
+    "Stride": 0.21351010101010104,
+    "Eddowes": 0.8696969696969697,
+    "Kelly": 0.8181818181818182,
+    "Mylett": 0.0,
+    "McKenzie": 0.640530303030303,
+    "Pinchin St.": 0.38535353535353534,
+    "Coles": 0.21351010101010104
+   }
+  },
+  {
+   "dropped": "B11",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 10,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09406565656565656,
+    "Tabram": 0.5984848484848484,
+    "Nichols": 0.7757575757575758,
+    "Chapman": 0.903030303030303,
+    "Stride": 0.20795454545454545,
+    "Eddowes": 0.903030303030303,
+    "Kelly": 0.8484848484848485,
+    "Mylett": 0.0,
+    "McKenzie": 0.6238636363636364,
+    "Pinchin St.": 0.37626262626262624,
+    "Coles": 0.20795454545454545
+   }
+  },
+  {
+   "dropped": "B12",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 12,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09633838383838383,
+    "Tabram": 0.6121212121212121,
+    "Nichols": 0.8053872053872054,
+    "Chapman": 0.869023569023569,
+    "Stride": 0.21351010101010104,
+    "Eddowes": 0.8696969696969697,
+    "Kelly": 0.8181818181818182,
+    "Mylett": 0.0,
+    "McKenzie": 0.640530303030303,
+    "Pinchin St.": 0.38535353535353534,
+    "Coles": 0.21351010101010104
+   }
+  },
+  {
+   "dropped": "B13",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 10,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09981060606060606,
+    "Tabram": 0.5738636363636364,
+    "Nichols": 0.7313131313131312,
+    "Chapman": 0.8474747474747475,
+    "Stride": 0.19962121212121212,
+    "Eddowes": 0.8510101010101009,
+    "Kelly": 0.8055555555555555,
+    "Mylett": 0.0,
+    "McKenzie": 0.5988636363636364,
+    "Pinchin St.": 0.3622766122766123,
+    "Coles": 0.19962121212121212
+   }
+  },
+  {
+   "dropped": "B14",
+   "core_still_best4": true,
+   "mck_gt_stride": true,
+   "keppel6_rank": 10,
+   "canon5_rank": 16,
+   "best6": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "to_core": {
+    "Smith": 0.09056915306915307,
+    "Tabram": 0.5738636363636364,
+    "Nichols": 0.7313131313131312,
+    "Chapman": 0.8474747474747475,
+    "Stride": 0.19962121212121212,
+    "Eddowes": 0.8510101010101009,
+    "Kelly": 0.8055555555555555,
+    "Mylett": 0.0,
+    "McKenzie": 0.5988636363636364,
+    "Pinchin St.": 0.39924242424242423,
+    "Coles": 0.19962121212121212
+   }
+  }
+ ],
+ "lofo_summary": {
+  "core_always_best4": true,
+  "mck_always_gt_stride": true,
+  "keppel6_rank_range": [
+   6,
+   13
+  ],
+  "canon5_rank_range": [
+   8,
+   22
+  ],
+  "best6_always_alt": true,
+  "to_core_range": {
+   "Smith": [
+    0.0,
+    0.09981060606060606
+   ],
+   "Tabram": [
+    0.53125,
+    0.6329545454545454
+   ],
+   "Nichols": [
+    0.7047138047138047,
+    0.8053872053872054
+   ],
+   "Chapman": [
+    0.8319865319865319,
+    0.903030303030303
+   ],
+   "Stride": [
+    0.11121933621933622,
+    0.22243867243867244
+   ],
+   "Eddowes": [
+    0.8363636363636364,
+    0.903030303030303
+   ],
+   "Kelly": [
+    0.787878787878788,
+    0.8787878787878788
+   ],
+   "Mylett": [
+    0.0,
+    0.0
+   ],
+   "McKenzie": [
+    0.5560966810966811,
+    0.6673160173160173
+   ],
+   "Pinchin St.": [
+    0.2994318181818182,
+    0.39924242424242423
+   ],
+   "Coles": [
+    0.11121933621933622,
+    0.22243867243867244
+   ]
+  }
+ },
+ "top_six_sets": [
+  {
+   "rank": 1,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "cohesion": 0.6779292929292928
+  },
+  {
+   "rank": 2,
+   "members": [
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie",
+    "Pinchin St."
+   ],
+   "cohesion": 0.6048394198394198
+  },
+  {
+   "rank": 3,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "Pinchin St."
+   ],
+   "cohesion": 0.5953949753949754
+  },
+  {
+   "rank": 4,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "McKenzie",
+    "Pinchin St."
+   ],
+   "cohesion": 0.5679124579124579
+  },
+  {
+   "rank": 5,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Kelly",
+    "McKenzie",
+    "Pinchin St."
+   ],
+   "cohesion": 0.5596373996373996
+  },
+  {
+   "rank": 6,
+   "members": [
+    "Nichols",
+    "Chapman",
+    "Stride",
+    "Eddowes",
+    "Kelly",
+    "McKenzie"
+   ],
+   "cohesion": 0.5586868686868687
+  },
+  {
+   "rank": 7,
+   "members": [
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie",
+    "Coles"
+   ],
+   "cohesion": 0.5586868686868687
+  },
+  {
+   "rank": 8,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Eddowes",
+    "Kelly",
+    "McKenzie",
+    "Pinchin St."
+   ],
+   "cohesion": 0.5516576016576017
+  },
+  {
+   "rank": 9,
+   "members": [
+    "Tabram",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "McKenzie",
+    "Pinchin St."
+   ],
+   "cohesion": 0.5514219114219114
+  },
+  {
+   "rank": 10,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Stride",
+    "Eddowes",
+    "Kelly"
+   ],
+   "cohesion": 0.5381313131313131
+  },
+  {
+   "rank": 11,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Eddowes",
+    "Kelly",
+    "Coles"
+   ],
+   "cohesion": 0.5381313131313131
+  },
+  {
+   "rank": 12,
+   "members": [
+    "Tabram",
+    "Nichols",
+    "Chapman",
+    "Stride",
+    "Eddowes",
+    "McKenzie"
+   ],
+   "cohesion": 0.5172727272727272
+  }
+ ],
+ "linkage": [
+  [
+   4,
+   10,
+   0.0,
+   2
+  ],
+  [
+   5,
+   6,
+   0.08333333333333337,
+   2
+  ],
+  [
+   3,
+   12,
+   0.12878787878787878,
+   3
+  ],
+  [
+   2,
+   8,
+   0.25,
+   2
+  ],
+  [
+   1,
+   14,
+   0.3541666666666667,
+   3
+  ],
+  [
+   13,
+   15,
+   0.3924242424242424,
+   6
+  ],
+  [
+   0,
+   7,
+   0.5,
+   2
+  ],
+  [
+   9,
+   16,
+   0.6404267029267029,
+   7
+  ],
+  [
+   11,
+   18,
+   0.7966450216450216,
+   9
+  ],
+  [
+   17,
+   19,
+   0.9649925691592358,
+   11
+  ]
+ ],
+ "lr": [
+  {
+   "label": "HITS, all homicides (9/3,359)",
+   "p": 0.0026793688597796963,
+   "both": [
+    186.61111111111111,
+    298.5777777777778,
+    354.5611111111111
+   ],
+   "one_missing": [
+    0.5013432835820896,
+    0.2005373134328358,
+    0.050134328358209
+   ]
+  },
+  {
+   "label": "Plausible upper value, sex-worker victims",
+   "p": 0.03,
+   "both": [
+    16.666666666666668,
+    26.666666666666668,
+    31.666666666666668
+   ],
+   "one_missing": [
+    0.5154639175257733,
+    0.20618556701030924,
+    0.051546391752577365
+   ]
+  },
+  {
+   "label": "Within the 11-case file (5/11)",
+   "p": 0.45454545454545453,
+   "both": [
+    1.1,
+    1.7600000000000002,
+    2.09
+   ],
+   "one_missing": [
+    0.9166666666666667,
+    0.3666666666666666,
+    0.09166666666666676
+   ]
+  }
+ ],
+ "lr_interrupt": {
+  "0.5": 0.6016119402985074,
+  "0.9": 0.9224716417910448
+ },
+ "lr_throat_local": 1.4928571428571429,
+ "lr_absent_max": 1.0026865671641791
+}
